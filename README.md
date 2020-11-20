@@ -9,4 +9,4 @@
 In this project we reproduced the results achieved in the paper [Sound Event Localization and Detection of
 overlapping Sources Using Convolutional Recurrent Neural Networks](https://arxiv.org/pdf/1807.00129.pdf)
 
-A  very detailed description of the project has been produced [here](www.it)
+A  very detailed description of the project has been produced [here](https://github.com/g185/SELDnet/blob/master/report_and_presentation/Seldnet.pdf)
